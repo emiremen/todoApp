@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'todoApp';
+  user = "Muhammed";
+  items = [
+   { description: "Kahvaltı", action: "No" },
+   { description: "Spor", action: "No" },
+   { description: "Fatura", action: "No" },
+   { description: "Sinema", action: "No" }
+  ];
 }
