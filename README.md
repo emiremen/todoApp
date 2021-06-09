@@ -1,5 +1,16 @@
 # TodoApp
 
+An example **[Angular](https://github.com/angular/angular-cli)** project I made.
+
+I used the **[Bootstrap](https://getbootstrap.com/)** design library for this sample.
+
+## Screenshots
+
+![screenshots](https://github.com/emiremen/todoApp/blob/master/screenshots/ss1.png)
+
+![screenshots](https://github.com/emiremen/todoApp/blob/master/screenshots/ss2.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
